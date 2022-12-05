@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BClark5418
+- 👋 Hi, I’m @brandonclark159
 - 👀 I’m interested in learning all I can to become a Full-Stack Web Developer.
 - 🌱 I’m currently learning Java, Python, HTML, CSS, JavaScript, etc.
 - 💞️ I’m looking to collaborate on various small projects to help build my knowledge base and skills!
